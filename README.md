@@ -13,4 +13,4 @@ When processing the data, I used PD.MERGE to combine the two datasets based on t
 
 
 ## Analysis
-The rendered version of the notebook, can be viewed [ here ]( https://nbviewer.jupyter.org/github/mic-lin/Period_Poverty/blob/main/7330_GroupProject_MangoX.ipynb ).
+The rendered version of the notebook, can be viewed [ here ]( https://nbviewer.jupyter.org/github/mic-lin/period_poverty/blob/main/code/7330_GroupProject_MangoX.ipynb ).
