@@ -1,4 +1,4 @@
-# Period_Poverty
+## Period_Poverty
 This repository was created in the Semester A of 2020-2021. It stores the group project of the course AIDM 7330 Basics Programming  for Data Science @ Hong Kong Baptist University. This group project was created by LIN Meishan, FU Yu, HU Xinyu and YU Tian.
 
 ## Data
